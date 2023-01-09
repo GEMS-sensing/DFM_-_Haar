@@ -47,7 +47,8 @@ Note: Pad `JP1` should be left _open_
 
 # System Assembly
 
-- Remove jam nut from connector on Haar board assembly (if still in place)
-- Finger tighten Haar board assembly into larger end of 3D printed body
-- Finger tighten GoreTex vent into smaller end of 3D printed body
+- Before Assembly: Conformal coat board using the protections described above
+1. Remove jam nut from connector on Haar board assembly (if still in place)
+2. Finger tighten Haar board assembly into larger end of 3D printed body
+3. Finger tighten GoreTex vent into smaller end of 3D printed body
 
